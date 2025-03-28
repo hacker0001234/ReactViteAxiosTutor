@@ -30,3 +30,7 @@ npm install react-router-dom
 
 
 npm install @stripe/stripe-js(бібіотека для страйп оплати)
+
+
+кукі бібліотека npm install js-cookie
+ 
