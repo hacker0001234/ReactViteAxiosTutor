@@ -35,7 +35,7 @@ npm install @stripe/stripe-js(бібіотека для страйп оплат�
 кукі бібліотека npm install js-cookie
  
 
-бібліотека для готових компонентів :
+бібліотека для готових компонентів (https://v4.mui.com/ru/getting-started/usage):
 npm install @mui/material @emotion/react @emotion/styled
 
 npm install @mui/icons-material @mui/material @emotion/react @emotion/styled
