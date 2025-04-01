@@ -35,4 +35,10 @@ npm install @stripe/stripe-js(бібіотека для страйп оплат�
 кукі бібліотека npm install js-cookie
  
 
-npm i @base-ui-components/react бібліотека для готових компонентів
+бібліотека для готових компонентів :
+npm install @mui/material @emotion/react @emotion/styled
+
+npm install @mui/icons-material @mui/material @emotion/react @emotion/styled
+
+ <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
