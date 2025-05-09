@@ -40,6 +40,7 @@ npm install @mui/material @emotion/react @emotion/styled
 
 npm install @mui/icons-material @mui/material @emotion/react @emotion/styled
 
+npm install @fortawesome/fontawesome-free
 
 npm install js-base64 для декодінгу або закодування 
 
