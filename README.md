@@ -112,3 +112,6 @@ createRoot(document.getElementById('root')).render(
     <App />
   </HeroUIProvider>,
 )
+
+
+npm install event-source-polyfill - это типо EventSource но из куками тоесть куки передаються 
