@@ -20,7 +20,7 @@ npm install axios
 
 npm run dev (якшо ти запустив проект і хочеш отмінить то заходиш в термінал і ctrl + c)
 
-
+---
 
 Дополнітельно:
 
@@ -34,6 +34,7 @@ npm install @stripe/stripe-js(бібіотека для страйп оплат�
 
 кукі бібліотека npm install js-cookie
  
+---
 
 бібліотека для готових компонентів (https://v4.mui.com/ru/getting-started/usage):
 npm install @mui/material @emotion/react @emotion/styled
@@ -48,6 +49,7 @@ npm install js-base64 для декодінгу або закодування
  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
 
+---
 
 installing a heroUI:
 first install vite 
@@ -113,5 +115,6 @@ createRoot(document.getElementById('root')).render(
   </HeroUIProvider>,
 )
 
+---
 
 npm install event-source-polyfill - это типо EventSource но из куками тоесть куки передаються 
