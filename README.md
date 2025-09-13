@@ -52,27 +52,32 @@ npm install js-base64 для декодінгу або закодування
 ---
 
 installing a heroUI:
-first install vite 
+1) install vite 
 
-second 
+
+2) 
 npm install -D tailwindcss@3 postcss autoprefixer
 npx tailwindcss init -p
 
-third instead of content: [] in tailwind.config,js place follow code :
+
+3) instead of content: [] in tailwind.config,js place follow code :
 content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
 
-  fourth in index.css remove all and place this:
+
+  4) in index.css remove all and place this:
   @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-fiveth 
+
+5) 
 npm install @heroui/react framer-motion
 
-sixth in tailwind.cofig.js in content place "./node_modules/@heroui/theme/dist/**/*.{js,ts,jsx,tsx}", DONT REMOVE CODE WHICH ALREADY WAS THERE
+
+6) in tailwind.cofig.js in content place "./node_modules/@heroui/theme/dist/**/*.{js,ts,jsx,tsx}", DONT REMOVE CODE WHICH ALREADY WAS THERE
 after in tailwind.config.js add on the top const {heroui} = require("@heroui/react");
 and instead of plugins place 
   darkMode: "class",
