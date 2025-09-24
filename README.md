@@ -41,13 +41,16 @@ npm install @mui/material @emotion/react @emotion/styled
 
 npm install @mui/icons-material @mui/material @emotion/react @emotion/styled
 
-npm install @fortawesome/react-fontawesome @fortawesome/free-regular-svg-icons @fortawesome/free-solid-svg-icons
-
-npm install js-base64 для декодінгу або закодування 
-
-
  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+
+---
+
+npm install @fortawesome/react-fontawesome @fortawesome/free-regular-svg-icons @fortawesome/free-solid-svg-icons
+
+---
+
+npm install js-base64 для декодінгу або закодування 
 
 ---
 
