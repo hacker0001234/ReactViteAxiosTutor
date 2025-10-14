@@ -126,3 +126,7 @@ createRoot(document.getElementById('root')).render(
 ---
 
 npm install event-source-polyfill - это типо EventSource но из куками тоесть куки передаються 
+
+---
+
+npm install framer-motion
